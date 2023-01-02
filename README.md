@@ -1,6 +1,6 @@
 ### Hi Developers 👋
  
-[![Linkedin Badge](https://img.shields.io/badge/-pandiarajanjeeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/aakash--01629954](https://www.linkedin.com/in/pandiarajan-jeeva-2a26b14/)](https://www.linkedin.com/in/pandiarajan-jeeva-2a26b14/)/)]([[https://www.linkedin.com/in/aakash--01629954/](https://www.linkedin.com/in/pandiarajan-jeeva-2a26b14/)](https://www.linkedin.com/in/pandiarajan-jeeva-2a26b14/)) 
+[![Linkedin Badge](https://img.shields.io/badge/-pandiarajanjeeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/pandiarajan-jeeva-2a26b14/](https://www.linkedin.com/in/pandiarajan-jeeva-2a26b14/)](https://www.linkedin.com/in/pandiarajan-jeeva-2a26b14/)/)]([[https://www.linkedin.com/in/aakash--01629954/](https://www.linkedin.com/in/pandiarajan-jeeva-2a26b14/)](https://www.linkedin.com/in/pandiarajan-jeeva-2a26b14/)) 
 
 I'm
 BPMS/EAI/J2EE/Full Stack Solution Architect
